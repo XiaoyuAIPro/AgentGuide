@@ -41,7 +41,7 @@ topic:
 - 竞品分析 Agent
 - 行业调研 Agent
 
-### [STORM / OpenScholar](https://github.com/stanford-oval/storm)
+### [STORM](https://github.com/stanford-oval/storm) / [OpenScholar](https://github.com/AkariAsai/OpenScholar)
 
 **定位**：面向长文写作和学术综述的研究系统。
 

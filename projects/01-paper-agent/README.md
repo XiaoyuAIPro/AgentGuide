@@ -173,7 +173,7 @@ outputs/paper-agent/<run-id>/
 
 - [GPT Researcher](https://github.com/assafelovic/gpt-researcher)：开源深度研究 Agent，适合学习 research report pipeline。
 - [Sakana AI: The AI Scientist](https://github.com/SakanaAI/AI-Scientist)：自动化科研流程项目，适合了解研究型 Agent 的边界和风险。
-- [OpenScholar](https://github.com/stanford-oval/storm)：学术写作和综述生成方向的代表项目之一。
+- [OpenScholar](https://github.com/AkariAsai/OpenScholar)：学术写作和综述生成方向的代表项目之一。
 - [arXiv API](https://info.arxiv.org/help/api/index.html)
 - [Semantic Scholar API](https://api.semanticscholar.org/api-docs/)
 - [OpenAlex API](https://docs.openalex.org/)
